@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webdozerz" alt="webdozerz" /></a> </p>
 
-- 🔭 I work in <a href="https://crypton.studio/">**Crypton Studio**</a>
+- 🔭 I work in <a href="https://crypton.studio/" target="_blank">**Crypton Studio**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
